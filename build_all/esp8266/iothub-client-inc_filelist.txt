@@ -1,0 +1,12 @@
+blob.h
+iothub_client.h
+iothub_client_ll.h
+iothub_client_ll_uploadtoblob.h
+iothub_client_options.h
+iothub_client_private.h
+iothub_client_version.h
+iothub_message.h
+iothubtransport.h
+iothub_transport_ll.h
+iothubtransport_mqtt_common.h
+iothubtransportmqtt.h

@@ -1,0 +1,8 @@
+iothub_client.c
+iothub_client_ll.c
+iothub_client_ll_uploadtoblob.c
+iothub_message.c
+iothubtransport.c
+iothubtransportmqtt.c
+iothubtransport_mqtt_common.c
+version.c
